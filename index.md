@@ -12,5 +12,8 @@ hero:
   actions:
     - theme: brand
       text: JavaScript
-      link: /javascript
+      link: /docs/frontend/javascript/index
+    - theme: brand
+      text: 日记
+      link: /docs/diary/index
 ---
